@@ -1,2 +1,2 @@
-* [Home](/)
-* [Guide](AAA.md)
+* [开发环境搭建](AAA.md)
+* [技术说明](BBB.md)
